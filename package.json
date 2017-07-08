@@ -1,0 +1,12 @@
+{
+  "name": "socket-io-chat",
+  "version": "1.0.0",
+  "description": "practicing socket io for the first time",
+  "main": "server.js",
+  "author": "Dallin Parker <dallin.r.parker@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
